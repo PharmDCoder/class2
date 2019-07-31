@@ -1,2 +1,3 @@
-# class2
+# Jamie's Repo Class2
 Example Using GitHub
+
